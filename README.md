@@ -11,5 +11,6 @@ Type down the event that the user wishes to track and click the save icon to sav
 
 ScreenShots:
 
-![image desc](./Challenge-3/images/Challenge3-6.JPG)
+![image desc](./assets/images/WorkTracker-1.JPG)
 
+I couldn't get the screenshot for the full functionality of the app but the screenshot shows the events that are pass the time
