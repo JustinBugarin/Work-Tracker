@@ -11,4 +11,5 @@ Type down the event that the user wishes to track and click the save icon to sav
 
 ScreenShots:
 
+![image desc](./Challenge-3/images/Challenge3-6.JPG)
 
